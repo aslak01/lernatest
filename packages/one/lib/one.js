@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = one;
+export default one;
 
 function one() {
   return 'Hello from one';
