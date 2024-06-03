@@ -1,5 +1,5 @@
 {
-  "name": "two",
+  "name": "testpackage-pleaseignore-two-12341234",
   "version": "0.0.2",
   "description": "test",
   "keywords": [
@@ -23,5 +23,5 @@
   "scripts": {
     "test": "node ./__tests__/two.test.js"
   },
-  "gitHead": "ba773e61d4abd3ed1f5f68676513190374b5407e"
+  "gitHead": "0a106732cd54f1d7a84a4cf36e6826114ea818d4"
 }
