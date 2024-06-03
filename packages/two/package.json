@@ -1,0 +1,26 @@
+{
+  "name": "two",
+  "version": "0.0.0",
+  "description": "test",
+  "keywords": [
+    "two"
+  ],
+  "author": "aslak <aslakrb@gmail.com>",
+  "homepage": "http://www.example.com",
+  "license": "MIT",
+  "main": "two.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "tood"
+  },
+  "scripts": {
+    "test": "node ./__tests__/two.test.js"
+  }
+}
