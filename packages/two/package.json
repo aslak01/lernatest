@@ -1,5 +1,5 @@
 {
-  "name": "testpackage-pleaseignore-two-12341234",
+  "name": "iamalernapackagetesttwo",
   "version": "0.0.3",
   "description": "test",
   "keywords": [
@@ -23,5 +23,5 @@
   "scripts": {
     "test": "node ./__tests__/two.test.js"
   },
-  "gitHead": "0a106732cd54f1d7a84a4cf36e6826114ea818d4"
+  "gitHead": "1dec9d9f073f53f047b1f22b7a728feac92e064a"
 }
